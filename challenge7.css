@@ -1,0 +1,14 @@
+/* Selection by tag or element */
+img{
+    width: 500px;
+}
+
+/* Selection by class */
+.image{
+    border-width: 30px;
+}
+
+/* Selection by Id */
+#picture{
+    border-color: coral;
+}
